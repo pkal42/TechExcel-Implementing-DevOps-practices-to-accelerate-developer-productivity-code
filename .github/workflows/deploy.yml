@@ -3,7 +3,7 @@ on:
 permissions:
  id-token: write
 env:
-  targetEnv: dev
+  targetEnv: test
 
 name: Azure Bicep
 jobs:
