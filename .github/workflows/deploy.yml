@@ -1,7 +1,5 @@
 on:
   workflow_dispatch
-permissions:
-  id-token: write
 env:
   targetEnv: dev
 
